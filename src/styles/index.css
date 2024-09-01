@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.rojo {
+    box-shadow: 0px 0px 50px 20px #ff3c3c;
+}
+
+.amarillo {
+    box-shadow: 0px 0px 50px 20px #fff700;
+}
+
+.verde {
+    box-shadow: 0px 0px 50px 20px #4cff0a;
+}
